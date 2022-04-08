@@ -11,9 +11,6 @@ import '../../utils/Constants.dart';
 import 'LogInController.dart';
 
 class LogInPage extends StatelessWidget {
-  final FocusNode _passwordF = FocusNode();
-  final FocusNode _correoF = FocusNode();
-
   var width, height;
 
   @override
